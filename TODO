@@ -1,0 +1,8 @@
+Write a script that allows upgrade of mongodb via a group name rather than group id
+
+1) get groups from ops manager
+2) select appropriate group id found by name
+3) get automation config
+4) upgrade nodes in that group to specified version
+
+
